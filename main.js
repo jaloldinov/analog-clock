@@ -20,4 +20,4 @@ setInterval(function () {
 
   document.getElementById("hour-rotator").style.transform =
     "rotate(" + hour + "deg)";
-}, 1500);
+}, 1000);
